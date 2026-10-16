@@ -1,0 +1,6 @@
+shadow prebuilt repo: fdlibm (target)
+  upstream: external/fdlibm
+  api-level: 32 (branch 32-20261016)
+  blobs: org.blisslabs.ag.fdlibm.apex org.blisslabs.ag.fdlibm.dev.apex org.blisslabs.ag.fdlibm.doc.apex
+  dev-src: matching upstream external/fdlibm/Android.bp providing libfdlibm static library
+  date: 2026-10-16
